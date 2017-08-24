@@ -1,0 +1,47 @@
+[
+ {
+   "name": "apples",
+   "type": "fruit",
+   "quantity": 4
+ },
+ {
+   "name": "oranges",
+   "type": "fruit",
+   "quantity": 3
+ },
+ {
+   "name": "bananas",
+   "type": "fruit",
+   "quantity": 6
+ },
+ {
+   "name": "blueberries",
+   "type": "fruit",
+   "quantity": 3
+ },
+ {
+   "name": "onions",
+   "type": "vegetable",
+   "quantity": 5
+ },
+ {
+   "name": "peppers",
+   "type": "vegetable",
+   "quantity": 3
+ },
+ {
+   "name": "rutabegas",
+   "type": "vegetable",
+   "quantity": 3
+ },
+ {
+   "name": "tomatoes",
+   "type": "fruit",
+   "quantity": 3
+ },
+ {
+   "name": "cabbage heads",
+   "type": "vegetable",
+   "quantity": 3
+ }
+]
