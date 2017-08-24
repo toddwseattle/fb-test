@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
+The purpose is to demonstrate how to create a unit test with a mock for the firebase database when using the [AngularFire2](https://github.com/angular/angularfire2) library.   It was created with 4.0.0-rc2 of angularfire.
+
+It is set up to go against a public firebase database I have set up.  The database contains the json in the assets folder. The database is open for reads only.
+
+A new test the insures that the items observable contains the right number of items from the mock has been added to [app.component.spec.ts](/src/app/app.component.spec.ts)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
